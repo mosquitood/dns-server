@@ -1,0 +1,14 @@
+{
+  "name": "dns-server",
+  "version": "1.0.0",
+  "description": "DNS Server for the DNS Leak Test library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mosquitood <mosquitood@gmail.com>",
+  "repository": "https://github.com/mosquitood/dns-server.git",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
